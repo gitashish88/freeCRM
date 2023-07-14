@@ -1,0 +1,10 @@
+crm\pages\Homepage.class
+crm\pages\LoginPage.class
+crm\extentreports\ExtentReportListener.class
+crm\pages\ContactsPage.class
+crm\utilities\WebEventListener.class
+crm\utilities\WebDriverBaseExtension.class
+crm\pages\DealsPage.class
+crm\pages\SignUpPage.class
+crm\core\WebDriverBase.class
+crm\utilities\TestUtility.class
