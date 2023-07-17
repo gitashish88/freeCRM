@@ -20,7 +20,7 @@ public class ContactsPageTests extends WebDriverBase {
 
 	public ContactsPageTests() {
 		super();
-		
+		//to take all the members from super class
 	}
 
 	@DataProvider
